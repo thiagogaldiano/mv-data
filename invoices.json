@@ -2,11 +2,11 @@
 	"companyLogo": "http://lea.verou.me/logo.svg",
 	"companyName": "Lea Verou",
 	"companyAddress": "42 JavaScript Way\n\t\t\tBoston, MA 02114\n\t\t\tUSA",
-	"companyURL": "http://lea.verou.me",
-	"companyEmail": "lea@verou.me",
+	"companyURL": "asdfsadfsadfsdf",
+	"companyEmail": "asdfsadfasdf",
 	"invoice": [
 		{
-			"id": "2",
+			"id": "3",
 			"date": "2016-10-06",
 			"recipient": {
 				"name": "Widget Corp",
@@ -26,6 +26,14 @@
 					"description": "Web hosting",
 					"amount": "20"
 				}
+			]
+		},
+		{
+			"id": "2",
+			"recipient": {},
+			"currency": "$",
+			"services": [
+				{}
 			]
 		},
 		{
